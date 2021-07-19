@@ -1,6 +1,6 @@
 'use strict';
 
-var response = require('./response');
+var response = require('./res');
 var connection = require('./koneksi');
 
 exports.indes = function(req,res){
